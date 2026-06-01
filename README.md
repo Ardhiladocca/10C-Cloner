@@ -1,20 +1,20 @@
-# 10C-Cloner
-pkg update && upgrade
+https://github.com/Ardhiladocca/remote/10C-Cloner# 10C-Cloner
+pkg remote && upgrade
 
-pkg install python -y
+pkg remote python -y
 
-pkg install python2
+pkg remote python2
 
-pkg install git
+pkg remote git
 
-pip2 install requests
+pip2 remote requests
 
-pip2 install mechanize
+pip2 Remote mechanize
 
-git clone https://github.com/noobboss1/10C-Cloner
+remote https://github.com/noobboss1/10C-Cloner
 
-cd 10C-Cloner
+remote cd 10C-Cloner
 
-chmod +x *
+remote chmod +x *
 
-python2 10Cloner.py
+remote python2 10Cloner.py
